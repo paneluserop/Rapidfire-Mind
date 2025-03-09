@@ -88,7 +88,7 @@ async function executeLoop(source) {
         .setAuthor({ 
             name: lang.loopTitle, 
             iconURL: musicIcons.loopIcon,
-            url: "https://discord.gg/xQF9f9yUEM"
+            url: "https://discord.gg/8JkTHpsz4k"
         });
 
     if (loopMode === 'queue') {
