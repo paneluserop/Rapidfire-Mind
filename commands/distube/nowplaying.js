@@ -73,7 +73,7 @@ module.exports = {
                     .setAuthor({ 
                         name: lang.nowPlayingNoQueueTitle, 
                         iconURL: musicIcons.wrongIcon,
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/8JkTHpsz4k"
                     })
                     .setFooter({ text: lang.nowPlayingFooterText, iconURL: musicIcons.footerIcon })
                     .setDescription(lang.nowPlayingNoQueue);
