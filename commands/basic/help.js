@@ -34,7 +34,7 @@ module.exports = {
     async execute(interaction) {
         if (interaction.isCommand && interaction.isCommand()) {
         
-            const BOT_ICON = "https://cdn.discordapp.com/emojis/1334648756649590805.png";
+            const BOT_ICON = "https://cdn.discordapp.com/attachments/1300829409292587078/1348213956199583765/IMG_20250309_140839_880.jpg?ex=67cea597&is=67cd5417&hm=3bd3363526baf63326b6138e5b140c66579fe71706adfc8238011b0298891e85&";
             const EMBED_COLOR = "#3498db";
             const COMMANDS_DIR = path.join(__dirname, '../../commands');
             const EXCESS_COMMANDS_DIR = path.join(__dirname, '../../excesscommands');
@@ -304,7 +304,7 @@ module.exports = {
                 .setAuthor({
                     name: "Alert!",
                     iconURL: cmdIcons.dotIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/8JkTHpsz4k"
                 })
                 .setDescription('- This command can only be used through slash command!\n- Please use `/help`')
                 .setTimestamp();
