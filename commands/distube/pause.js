@@ -86,7 +86,7 @@ module.exports = {
                             .setAuthor({ 
                                 name: lang.pauseErrorTitle, 
                                 iconURL: musicIcons.wrongIcon,
-                                url: "https://discord.gg/xQF9f9yUEM"
+                                url: "https://discord.gg/8JkTHpsz4k"
                             })
                             .setFooter({ text: lang.pauseFooterText, iconURL: musicIcons.footerIcon })
                             .setDescription(lang.pauseError);
