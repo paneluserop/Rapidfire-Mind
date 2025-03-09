@@ -110,7 +110,7 @@ module.exports = {
                 .setAuthor({
                     name: "Alert!",
                     iconURL: cmdIcons.dotIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/rapidfirecorp"
                 })
                 .setDescription(lang.pollCommandOnly)
                 .setTimestamp();
